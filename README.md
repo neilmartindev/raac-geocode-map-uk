@@ -1,4 +1,4 @@
-## RAAC school information with pandas, geocode and folium
+## RAAC school information with Pandas, Geocode and Folium
 Small Jupter Notebook that uses the .CSV provided on the UK.gov website.
 
 It applies geocode to each entry and will inform you if one doesn't comply.
