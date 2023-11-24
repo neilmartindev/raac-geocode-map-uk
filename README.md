@@ -13,3 +13,6 @@ There is then an interactive map created using Folium to map these school locati
 I'd recommend create a Python3 venv and then installing requirements.txt via:
 
 pip install -r requirements.txt
+
+![Example](map.png)
+
